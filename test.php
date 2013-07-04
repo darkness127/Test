@@ -9,5 +9,6 @@
 <?php $link = mysql_connect('chienluocso.vn', 'viettranx_yp', 'Tranviet89##');
 	mysql_select_db('viettranx_yp', $link);
 ?>
+Haha
 </body>
 </html>
