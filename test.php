@@ -2,13 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Untitled Document</title>
+<title>Test</title>
 </head>
 
 <body>
-<?php $link = mysql_connect('chienluocso.vn', 'viettranx_yp', 'Tranviet89##');
-	mysql_select_db('viettranx_yp', $link);
-?>
-Haha
+ Hello everybody !!!
 </body>
 </html>
